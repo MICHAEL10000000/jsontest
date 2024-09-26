@@ -1,17 +1,33 @@
 {
-    "fist":{
+    "Name":[
+        {
         "id": 1,
         "Name": "Gbenga",
         "Course": "MBBS"
-    },
-    "second": {
-        "id": 2,
-        "Name": "Jeremiah",
-        "Course": "Software-Engineering"
-    }, 
-    "third":{
-        "id": 1,
-        "Name": "Femi",
-        "Course": "Mech-Engin"
-    }
+        }, 
+        {
+            "id": 2,
+            "Name": "Jeremiah",
+            "Course": "Software-Engineering"
+        }, 
+        {
+            "id": 3,
+            "Name": "Femi",
+            "Course": "Mech-Engin"
+        } 
+    ], 
+    "favouriteMeal":[
+        {
+            "id": 1,
+            "Meal": "Amala"
+        },
+        {
+            "id": 2,
+            "Meal": "Beans"
+        },
+        {
+            "id": 3,
+            "Meal": "Rice"
+        }
+    ]
 }
